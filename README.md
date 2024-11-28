@@ -8,7 +8,8 @@
 
 Modern ve kullanıcı dostu arayüzü ile OpenWeatherMap API kullanarak hava durumu takibi yapabileceğiniz bir masaüstü uygulaması.
 
-![Uygulama Ekran Görüntüsü](screenshots/app_screenshot.png)
+![image](https://github.com/user-attachments/assets/9301448c-3f6f-4ab1-9479-5a5a55bed77c)
+
 
 ## ✨ Özellikler
 
